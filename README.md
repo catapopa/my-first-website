@@ -1,2 +1,2 @@
 # my-first-website
-The first website made in high school using HTML and CSS
+My first website made in high school using HTML and CSS
